@@ -12,6 +12,6 @@ This project uses python to generate a website (html/css/js) dynamically.
 
 # Files
 
-- entertainment_center.py has list of movies and its information
+- entertainment_center.py has list of movies and its information. this file will make instances of Movie from the list provided
 - media.py has class and contructor of Movie
 - fresh_tomatoes.py has html/css/js and some logic to generate content for the website
